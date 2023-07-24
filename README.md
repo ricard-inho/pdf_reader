@@ -1,5 +1,5 @@
 # PDF reader
-
+![](https://github.com/ricard-inho/pdf_reader/blob/main/diagram.png)
 
 ## Set up
 ```
