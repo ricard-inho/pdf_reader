@@ -1,5 +1,7 @@
-# pdf_reader
+# PDF reader
 
+
+## Set up
 ```
 docker compose up -d
 docker compose exec pdf_reader bash
